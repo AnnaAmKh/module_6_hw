@@ -3,7 +3,7 @@ setup(
     name='clear_folder',
     version='0.0.1',
     description='Very useful code',
-    url='',
+    url='https://github.com/AnnaAmKh/module_7_hw/tree/master/clear_folder',
     author='Anna Amelina',
     author_email='author@gmail.com',
     license='MIT',
